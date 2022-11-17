@@ -5,16 +5,16 @@
     "icon": "https://app.grey.co/favicon.ico",
     "slug": "user-gateway",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.40%",
     "uptimeMonth": "99.40%",
-    "uptimeYear": "99.50%",
-    "time": 646,
-    "timeDay": 611,
-    "timeWeek": 550,
-    "timeMonth": 547,
-    "timeYear": 646,
+    "uptimeYear": "99.51%",
+    "time": 643,
+    "timeDay": 529,
+    "timeWeek": 509,
+    "timeMonth": 544,
+    "timeYear": 643,
     "dailyMinutesDown": {
       "2022-11-14": 262
     }
