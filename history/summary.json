@@ -4,18 +4,19 @@
     "url": "https://user-gw.grey.engineering/v2/health",
     "icon": "https://app.grey.co/favicon.ico",
     "slug": "user-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.55%",
     "time": 640,
-    "timeDay": 710,
-    "timeWeek": 654,
-    "timeMonth": 580,
+    "timeDay": 670,
+    "timeWeek": 651,
+    "timeMonth": 581,
     "timeYear": 640,
     "dailyMinutesDown": {
+      "2022-11-25": 0,
       "2022-11-17": 33,
       "2022-11-14": 262
     }
