@@ -1,7 +1,7 @@
 url: https://user-gw.grey.engineering/v2/health
-status: up
-code: 200
-responseTime: 645
-lastUpdated: 2022-11-25T06:53:58.407Z
+status: down
+code: 502
+responseTime: 433
+lastUpdated: 2022-11-25T07:14:36.335Z
 startTime: Mon Oct 10 2022 18:16:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
